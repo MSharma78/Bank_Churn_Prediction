@@ -24,5 +24,17 @@ This project predicts customer churn using machine learning and visualizes insig
 - Included metrics: Churn Rate, Avg. Balance, Avg. Tenure
 - Visuals: Churn by Age, Tenure, Credit Score Group, Gender
 
+## Key Insights from Customer Churn Dashboard
+1.	Mid-Age Customers Are Most Likely to Churn
+The churn rate peaks around the age group of 40–50, indicating that customers in their mid-career stage are more likely to exit the service.
+2.	Churn Rate is Higher in Early Tenure
+Customers in their first 2–3 years are more likely to churn, suggesting the need for stronger onboarding and engagement strategies early in the customer journey.
+3.	Credit Scores Between 600–700 Show Higher Churn
+A noticeable churn spike is seen among customers with credit scores in the 600–700 range, indicating a potential risk group that could benefit from targeted financial support or loyalty programs.
+4.	Female Customers Have a Slightly Higher Churn Rate
+Although the gender difference isn't drastic, female customers show higher churn — which may warrant further investigation into user experience or service satisfaction by demographic
+
+
+
 
 
